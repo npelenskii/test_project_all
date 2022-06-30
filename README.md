@@ -5,6 +5,10 @@ In the project directory, you can run:
 
 <h2>Frontend</h2>
 
+link to project: https://eliftect.web.app
+
+<h2>Frontend</h2>
+
 ### `npm start`
 
 Runs the app in the development mode. <br/>
